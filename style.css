@@ -1,0 +1,7 @@
+
+body {
+    background-color: solid black;
+    background-position: center;
+    background-size: cover; /*Set the background image to cover the entire body */
+    background-repeat: repeat-y;
+}
